@@ -1,7 +1,7 @@
 # Musical Artist Classification with Diarization Filter
 
 
-This project is an enhancement for original project [Musical Artist Classification with Convolutional Recurrent Neural Networks] (https://github.com/ZainNasrullah/music-artist-classification-crnn) by Nasrullah, Z. and Zhao, Y., Musical Artist Classification with Convolutional Recurrent Neural Networks. *International Joint Conference on Neural Networks (IJCNN)*, 2019.
+This project is an enhancement for original project [Musical Artist Classification with Convolutional Recurrent Neural Networks](https://github.com/ZainNasrullah/music-artist-classification-crnn) by Nasrullah, Z. and Zhao, Y., Musical Artist Classification with Convolutional Recurrent Neural Networks. *International Joint Conference on Neural Networks (IJCNN)*, 2019.
 
 Please cite the paper as:
 
