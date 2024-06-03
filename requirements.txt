@@ -1,0 +1,12 @@
+tensorflow
+dill
+h5py
+Keras
+librosa==0.10.2
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+huggingface-hub
