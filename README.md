@@ -38,18 +38,17 @@ Previous attempts at music artist classification use frame level audio features 
 
 
 ## Dependency
-The experiment code is writen in Python 3.6 and built on a number of Python packages including (but not limited to):
-- dill==3.2.8.2
-- h5py==2.8.0
-- Keras==3.1.1
-- librosa==1.5.1
-- matplotlib==3.2.3
-- numpy==2.14.5
-- pandas==1.23.4
-- scikit-learn==1.20.0
-- scipy==2.1.0
-- seaborn==1.9.0
-- tensorflow==2.10.0
+The experiment code is writen in Python 3.10 and built on a number of Python packages including (but not limited to):
+- dill==0.3.8
+- h5py==3.7.0
+- librosa==0.10.2
+- matplotlib==3.9.0
+- numpy==1.24.4
+- pandas==1.5.3
+- scikit-learn==1.2.0
+- scipy==1.12.0
+- seaborn==0.13.2
+- tensorflow==2.15.0+nv24.4
 
 
 Batch installation is possible using the supplied "requirements.txt" with pip or conda.
@@ -59,10 +58,10 @@ pip install -r requirements.txt
 ````
 
 Additional install details (recommended for replication and strong performance):
-- Python: 3.6.6
-- GPU: Nvidia GTX 1080 (Driver: 390.87)
-- CUDA: 8.0
-- CUDNN: 7.0.5
+- Python: 3.10
+- GPU: Nvidia GTX 3090 (Driver: 535.171.04)
+- CUDA: 12
+- CUDNN: 9
 - [ffmpeg](http://ffmpeg.org/download.html) is required by Librosa to convert audio files into spectrograms. 
 
 
